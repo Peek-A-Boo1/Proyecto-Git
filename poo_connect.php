@@ -1,4 +1,5 @@
 <?php 
+/*Variables en orden para conexion mysqli*/
 $host="localhost";
 $root="root";
 $pass="";
