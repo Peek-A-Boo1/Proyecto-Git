@@ -4,7 +4,7 @@ $host="localhost";
 $root="root";
 $pass="";
 $db="prueba";
-
+/*Funcion que engloba el procediomiento de una conexion orientada a objetos usando la clase o libreria mysqli*/
 function mysq(){
     global $host;
     global $root;
