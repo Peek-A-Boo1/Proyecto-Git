@@ -5,7 +5,7 @@ $root="root";
 $pass="";
 $db="prueba";
 /*Funcion que engloba el procediomiento de una conexion orientada a objetos usando la clase o libreria mysqli*/
-function mysq(){
+function mysql(){
     global $host;
     global $root;
     global $pass;
@@ -46,6 +46,10 @@ echo"<script>alert('conexion existosa con PDO')</script>";
 catch(Exception $e){
 
 die('error'.$e->getMessage());
+}
+finally{
+
+    $connect=NULL;
 }
 ?>
 
