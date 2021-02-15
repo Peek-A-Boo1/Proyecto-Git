@@ -11,6 +11,7 @@ for($i=0;$i<count($semana);$i++){
    else{
 
     $tipo="dia de descanso";
+    
     }
   
  echo "$semana[$i] es : $tipo <br>";
