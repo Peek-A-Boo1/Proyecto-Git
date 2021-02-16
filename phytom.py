@@ -1,1 +1,1 @@
-print("hola mun")
+from tkinder import *
