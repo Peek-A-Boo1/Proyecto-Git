@@ -7,7 +7,7 @@ echo "La programacion orientada a objetos es un paradigma de programacion;es dec
      en los diferentes lenguajes de progrmacion exitentes y por existir. <BR> <BR>";
 echo "POO  se divide en 4 conceptos importantes :Metodos,Instancias,Clases y propiedades";
 
-echo " Las clases son el molde donde se ingresan los metodos y propiedades.El objetivo de la clase es crear un plano lleno de instruciones que dan forma a ala misma":
-
+echo " Las clases son el molde donde se ingresan los metodos y propiedades.El objetivo de la clase es crear un plano lleno de instruciones que dan 
+forma a ala misma";
 
 ?>
